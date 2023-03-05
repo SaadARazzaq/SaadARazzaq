@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saad Abdur Razzaq</h1>
-<h3 align="center">A Self Learning, Motivated Computer Science Aspirant.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saadarazzaq&label=Profile%20views&color=0e75b6&style=flat" alt="saadarazzaq" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saadarazzaq" alt="saadarazzaq" /></a> </p>
+<h3 align="center">A Self Learning, Motivated 6th Semester Computer Science Aspirant From FAST NUCES CFD Campus.</h3>
 
 - 🌱 I’m currently learning **ASP.NET, Blender**
 
