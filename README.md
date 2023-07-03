@@ -4,11 +4,6 @@
 	Saad Abdur Razzaq - FAST NU' 24
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
 </h3>
-<h1 align="center">Hi 👋, I'm Saad Abdur Razzaq</h1>
-<h3 align="center">Self Learning, Motivated Final-Year Computer Science Student!</h3>
-
-
-
 - 🌱 I'm ambitious about **Data Science, Front End Web Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SaadARazzaq](https://github.com/SaadARazzaq)
