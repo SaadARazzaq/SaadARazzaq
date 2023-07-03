@@ -47,7 +47,3 @@
 </p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saadarazzaq&" alt="saadarazzaq" /></p>
-
-<p align="center">
-	<img src="assets/preview.webp"/>
-</p>
