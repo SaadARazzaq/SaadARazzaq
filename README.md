@@ -3,6 +3,7 @@
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
 	Saad Abdur Razzaq - Data Scientist
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
+ 
 </h3>
 
   
@@ -14,6 +15,8 @@
 <a href="https://www.hackerrank.com/SaadAbdurRazzaq?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@saadabdurrazzaq" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sabdurrazzaq124" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sabdurrazzaq124" height="30" width="40" /></a>
 </p>
+
+<hr>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
@@ -30,5 +33,22 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
 	
+
+</p>
+
+<h3 align="center">
+	
 [![GitHub Streak](https://streak-stats.demolab.com?user=SaadARazzaq&theme=sunset-gradient&hide_border=true&border_radius=18&card_width=500&background=45%2C2620EB%2CEB0000)](https://git.io/streak-stats)
+
+</h3>
+
+&nbsp;
+<p align="center">
+	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" />
+</p>
+<p align="center">
+	Copyright &copy; 2022-present <a href="https://github.com/SaadARazzaq" target="_blank">Saad Abdur Razzaq</a>
+</p>
+<p align="center">
+	<a href="https://github.com/catppuccin/catppuccin/blob/main/LICENSE"><img src="https://img.shields.io/static/v1.svg?style=for-the-badge&label=License&message=MIT&logoColor=d9e0ee&colorA=363a4f&colorB=b7bdf8"/></a>
 </p>
