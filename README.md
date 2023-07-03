@@ -1,6 +1,6 @@
 ![logo](https://github.com/SaadARazzaq/SaadARazzaq/blob/main/Github%20Banner%202.jpeg)
 <h1 align="center">Hi 👋, I'm Saad Abdur Razzaq</h1>
-<h3 align="center">Self Learning, Motivated 6th Semester Computer Science Student!</h3>
+<h3 align="center">Self Learning, Motivated Final-Year Computer Science Student!</h3>
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
