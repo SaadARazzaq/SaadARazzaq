@@ -4,6 +4,14 @@
 	Saad Abdur Razzaq - FAST NU' 24
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
 </h3>
+
+	- 🔥 I'm ambitious about **Data Science, Front End Web Development**
+	
+	- 💬 Ask me about **Python & C++**
+	
+	- 📫 How to reach me **sabdurrazzaq124@gmail.com**
+
+  
 <p align="center">
 <a href="https://www.linkedin.com/in/saad-abdur-razzaq-350b52265/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saad abdur razzaq" height="30" width="40" /></a>
 <a href="https://www.facebook.com/saad.abdulrazzaq.7524/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="saad abdur razzaq" height="30" width="40" /></a>
