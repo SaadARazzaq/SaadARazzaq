@@ -4,13 +4,13 @@
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🌱 I’m currently learning **Python, Artificial Intelligence**
+- 🌱 I’m currently learning **Data Science, Front End Web Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SaadARazzaq](https://github.com/SaadARazzaq)
 
 - ➡️ I {!regularly} post videos on [https://www.youtube.com/channel/UCD7sQyEbW50jfkiEzlqTL-Q](https://www.youtube.com/channel/UCD7sQyEbW50jfkiEzlqTL-Q)
 
-- 💬 Ask me about **C#, C++, Python**
+- 💬 Ask me about **Python & C++**
 
 - 📫 How to reach me **sabdurrazzaq124@gmail.com**
 
