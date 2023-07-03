@@ -4,19 +4,15 @@
 	Saad Abdur Razzaq - FAST NU' 24
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
 </h3>
+
+
+
+
 - 🌱 I'm ambitious about **Data Science, Front End Web Development**
-
-- 👨‍💻 All of my projects are available at [https://github.com/SaadARazzaq](https://github.com/SaadARazzaq)
-
-- ➡️ I {!regularly} post videos on [https://www.youtube.com/channel/UCD7sQyEbW50jfkiEzlqTL-Q](https://www.youtube.com/channel/UCD7sQyEbW50jfkiEzlqTL-Q)
 
 - 💬 Ask me about **Python & C++**
 
 - 📫 How to reach me **sabdurrazzaq124@gmail.com**
-
-- 📄 Know about my experiences [Will be Uploaded Soon!](Will be Uploaded Soon!)
-
-- ⚡ Fun fact **Why do programmers prefer dark mode? Because light attracts bugs!**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
