@@ -34,7 +34,7 @@
 
 <h3 align="center">
 	
-[![GitHub Streak](https://streak-stats.demolab.com?user=SaadARazzaq&theme=sunset-gradient&hide_border=true&border_radius=18&card_width=500&background=45%2C2620EB%2CEB0000)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=SaadARazzaq&theme=sunset-gradient&hide_border=true&border_radius=18&card_width=500&background=45%2C2620EB%2CEB0000)
 
 </h3>
 
