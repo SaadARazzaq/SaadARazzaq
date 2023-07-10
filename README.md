@@ -2,10 +2,10 @@
 <h3 align="center">
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/logos/exports/1544x1544_circle.png" width="100" alt="Logo"/><br/>
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
-	<img src="https://github.com/SaadARazzaq/SaadARazzaq/assets/123338307/cd054013-63e9-4fcf-b242-7ec5b0996a74" width=380px alt="Saad Abdur Razzaq" />
+	<img src="https://github.com/SaadARazzaq/SaadARazzaq/assets/123338307/5ef994c9-86a7-4ee6-ad31-a9f42821aee6" width=380px alt="Saad Abdur Razzaq" />
 </h3> 
 <h4 align="center">
-	
+
 [![Typing SVG](https://tinyurl.com/WhatAreYouLookingFor101)](https://git.io/typing-svg)
 
   [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge)](https://www.linkedin.com/in/saadarazzaq/)[![YouTube Badge](https://img.shields.io/badge/YouTube-F00?logo=youtube&logoColor=fff&style=for-the-badge)](https://www.youtube.com/channel/UCD7sQyEbW50jfkiEzlqTL-Q)[![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge)](https://github.com/SaadARazzaq/)[![LeetCode Badge](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=fff&style=for-the-badge)](https://www.leetcode.com/sabdurrazzaq124)[![HackerRank Badge](https://img.shields.io/badge/HackerRank-00EA64?logo=hackerrank&logoColor=000&style=for-the-badge)](https://www.hackerrank.com/SaadAbdurRazzaq?hr_r=1)
