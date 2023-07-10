@@ -40,7 +40,7 @@
 
 &nbsp;
 <p align="center">
-	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" />
+	<img src="https://tinyurl.com/AboveTheSkys" />
 </p>
 <p align="center">
 	Copyright &copy; 2023-present   <a href="https://github.com/SaadARazzaq" target="_blank">Saad Abdur Razzaq</a>
