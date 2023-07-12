@@ -16,7 +16,7 @@
 <h3 align="center">Mainly Used Tools and Technologies</h3>
 <h3 align="center"> 
 
-![My Skills](https://skillicons.dev/icons?i=python,cpp,cs,dart,kotlin,html,css,tailwind,figma,flutter,linux,mysql,dotnet,vscode)
+![My Skills](https://skillicons.dev/icons?i=python,cpp,cs,dotnet,r,dart,kotlin,html,css,tailwind,figma,flutter,linux,mysql,vscode)
 
 </h3>
 
