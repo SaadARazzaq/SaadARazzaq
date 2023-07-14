@@ -26,3 +26,8 @@ jobs:
         with:
           branch: main
           message: ':rocket: Update'
+          force: 'true'
+          author_name: SyntaxSamurai
+          author_email: saadabdurrazzaq124@gmail.com
+          author_username: SaadARazzaq
+          token: ${{ secrets.PAT_TOKEN }}
