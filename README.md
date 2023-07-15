@@ -14,7 +14,7 @@
 <hr>
 <h3> 
 
-  ![My Skills](https://skillicons.dev/icons?i=python,cpp,cs,dotnet,r,dart,kotlin,html,css,tailwind,figma,flutter,linux,mysql,androidstudio,vscode)
+  ![My Skills](https://skillicons.dev/icons?i=python,cpp,cs,dotnet,r,dart,kotlin,html,css,tailwind,figma,flutter,linux,mysql,androidstudio,vscode&perline=19)
 
 </h3>
 <hr>
