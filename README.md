@@ -1,10 +1,9 @@
 <!-- ![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif) -->
+<div align=center>
+  <img  height=100px width= 100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=header"/>
+</div>
 <h3 align="center">
-	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/logos/exports/1544x1544_circle.png" width="100" alt="Logo"/><br/>
-	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
-	<img src="https://github.com/SaadARazzaq/SaadARazzaq/assets/123338307/5ef994c9-86a7-4ee6-ad31-a9f42821aee6" width=380px alt="Saad Abdur Razzaq" />
-</h3> 
-<h4 align="center">
+𝚂𝙰𝙰𝙳 𝙰𝙱𝙳𝚄𝚁 𝚁𝙰𝚉𝚉𝙰𝚀
 
 ![Typing SVG](https://tinyurl.com/WhatAreYouLookingFor101)
 
@@ -13,17 +12,24 @@
 
 <hr>
 
-<h3 align="center">Mainly Used Tools and Technologies</h3>
-<h3 align="center"> 
+<h3>⚒️ 𝙼𝚊𝚒𝚗𝚕𝚢 𝚄𝚜𝚎𝚍 𝚃𝚘𝚘𝚕𝚜 𝚊𝚗𝚍 𝚃𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚒𝚎𝚜</h3>
+<hr>
+<h3> 
 
-![My Skills](https://skillicons.dev/icons?i=python,cpp,cs,dotnet,r,dart,kotlin,html,css,tailwind,figma,flutter,linux,mysql,androidstudio,vscode&perline=8)
+  ![My Skills](https://skillicons.dev/icons?i=python,cpp,cs,dotnet,r,dart,kotlin,html,css,tailwind,figma,flutter,linux,mysql,androidstudio,vscode)
 
 </h3>
-
+<hr>
+<h3>👀 𝚃𝚘𝚝𝚊𝚕 𝙿𝚛𝚘𝚏𝚒𝚕𝚎 𝚅𝚒𝚎𝚠𝚜 </h3>
+<hr>
+<h3 > <img src="https://count.getloli.com/get/@:name" height=150 width=450 /> </h3>
+<hr>
 <h3 align="center">
+<h3>📈 𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜</h3>
+<hr>
 	
-![GitHub Streak](https://streak-stats.demolab.com?user=SaadARazzaq&theme=sunset-gradient&hide_border=true&border_radius=18&card_width=500&background=45%2C2620EB%2CEB0000)
-
+![GitHub Streak](https://streak-stats.demolab.com?user=SaadARazzaq&theme=sunset-gradient&hide_border=true&border_radius=18&card_width=1040&background=45%2C2620EB%2CEB0000)
+<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=SaadARazzaq&theme=highcontrast&hide_border=true&border_radius=15&card_width=800&background=45%2CEB0000%2C6B19EB)](https://git.io/streak-stats) -->
 </h3>
 
 &nbsp;
