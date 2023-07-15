@@ -30,12 +30,14 @@
 	
 ![GitHub Streak](https://streak-stats.demolab.com?user=SaadARazzaq&theme=sunset-gradient&hide_border=true&border_radius=18&card_width=1040&background=45%2C2620EB%2CEB0000)
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=SaadARazzaq&theme=highcontrast&hide_border=true&border_radius=15&card_width=800&background=45%2CEB0000%2C6B19EB)](https://git.io/streak-stats) -->
+
+![Snake animation](https://github.com/{{username}}/{{username}}/blob/output/github-contribution-grid-snake.svg)
+
 </h3>
 
 &nbsp;
 <p align="center">
-	<!-- <img src="https://tinyurl.com/AboveTheSkys" /> -->
-	<img src="https://github.githubassets.com/images/modules/notifications/inbox-zero-dark.svg" />
+	<img src="https://tinyurl.com/AboveTheSkys" />
 </p>
 <p align="center">
 	Copyright &copy; 2023-present   <a href="https://github.com/SaadARazzaq" target="_blank">Saad Abdur Razzaq</a>
