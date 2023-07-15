@@ -1,7 +1,5 @@
 <!-- ![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif) -->
-<div align=center>
-  <img  height=100px width= 100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=header"/>
-</div>
+<img src="bottom.png" />
 <h3 align="center">
 𝚂𝙰𝙰𝙳 𝙰𝙱𝙳𝚄𝚁 𝚁𝙰𝚉𝚉𝙰𝚀
 
@@ -31,8 +29,6 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=SaadARazzaq&theme=sunset-gradient&hide_border=true&border_radius=18&card_width=1040&background=45%2C2620EB%2CEB0000)
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=SaadARazzaq&theme=highcontrast&hide_border=true&border_radius=15&card_width=800&background=45%2CEB0000%2C6B19EB)](https://git.io/streak-stats) -->
 
-![Snake animation](https://github.com/{{username}}/{{username}}/blob/output/github-contribution-grid-snake.svg)
-
 </h3>
 
 &nbsp;
@@ -45,3 +41,6 @@
 <p align="center">
 	<a href="https://github.com/SaadARazzaq/SaadARazzaq/blob/main/LICENSE"><img src="https://img.shields.io/static/v1.svg?style=for-the-badge&label=License&message=MIT&logoColor=d9e0ee&colorA=363a4f&colorB=b7bdf8"/></a>
 </p>
+<div align=center>
+  <img  height=100px width= 100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=header"/>
+</div>
