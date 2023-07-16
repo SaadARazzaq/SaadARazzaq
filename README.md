@@ -1,7 +1,7 @@
 <!-- ![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif) -->
-<img src="bottom.png" />
+<img src="Glows.png" />
+<!-- <img src="Not Glow.png" /> -->
 <h3 align="center">
-𝚂𝙰𝙰𝙳 𝙰𝙱𝙳𝚄𝚁 𝚁𝙰𝚉𝚉𝙰𝚀
 
 ![Typing SVG](https://tinyurl.com/WhatAreYouLookingFor101)
 
