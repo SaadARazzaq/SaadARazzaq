@@ -25,8 +25,22 @@
 <h3 align="center">
 <h3>📈 𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜</h3>
 <hr>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/SaadARazzaq/SaadARazzaq/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/SaadARazzaq/SaadARazzaq/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/SaadARazzaq/SaadARazzaq/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 	
-![GitHub Streak](https://streak-stats.demolab.com?user=SaadARazzaq&theme=sunset-gradient&hide_border=true&border_radius=18&card_width=1040&background=45%2C2620EB%2CEB0000)
+![GitHub Streak](https://streak-stats.demolab.com?user=SaadARazzaq&theme=sunset-gradient&hide_border=true&border_radius=18&card_width=880&background=45%2C2620EB%2CEB0000)
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=SaadARazzaq&theme=highcontrast&hide_border=true&border_radius=15&card_width=800&background=45%2CEB0000%2C6B19EB)](https://git.io/streak-stats) -->
 
 </h3>
@@ -44,7 +58,3 @@
 <div align=center>
   <img  height=100px width= 100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=header"/>
 </div>
-
-
-
-![Snake animation](https://github.com/SaadARazzaq/SaadARazzaq/blob/output/github-contribution-grid-snake.svg)
