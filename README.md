@@ -44,3 +44,7 @@
 <div align=center>
   <img  height=100px width= 100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=header"/>
 </div>
+
+
+
+![Snake animation](https://github.com/SaadARazzaq/SaadARazzaq/blob/output/github-contribution-grid-snake.svg)
