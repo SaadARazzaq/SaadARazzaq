@@ -1,31 +1,33 @@
-name: Generate Animation
+name: Generate Snake Eating Contribution Graph
 
 on:
-  schedule:
-    - cron: "0 */24 * * *"
-  workflow_dispatch:
   push:
     branches:
-      - master
+      - main  # Replace with your desired branch
 
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
-
+    
     steps:
-      - name: Generate GitHub contribution grid snake
-        uses: Platane/snk/svg-only@v2
-        with:
-          github_user_name: SaadARazzaq
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - name: Checkout Repository
+        uses: actions/checkout@v2
 
-      - name: Push generated SVG to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+      - name: Set up Node.js
+        uses: actions/setup-node@v2
         with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          node-version: '14'
+
+      - name: Install Dependencies
+        run: npm install
+
+      - name: Generate Snake Animation
+        run: npx snk generate
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name SaadARazzaq
+          git config --global user.email sabdurrazzaq124@gmail.com
+          git add .
+          git commit -m "Generate snake eating contribution graph"
+          git push
