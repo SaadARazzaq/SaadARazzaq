@@ -26,6 +26,8 @@
 <h3>📈 𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜</h3>
 <hr>
 
+![](./profile-3d-contrib/profile-night-rainbow.svg)
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=SaadARazzaq&theme=sunset-gradient&hide_border=true&border_radius=18&card_width=880&background=45%2C2620EB%2CEB0000)
 
 <picture>
