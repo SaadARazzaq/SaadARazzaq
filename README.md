@@ -49,7 +49,6 @@
 
 </h3>
 
-&nbsp;
 <p align="center">
 	<img src="https://tinyurl.com/AboveTheSkys" />
 </p>
