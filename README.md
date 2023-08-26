@@ -16,11 +16,6 @@
 
   ![My Skills](https://skillicons.dev/icons?i=python,cpp,cs,dotnet,r,dart,kotlin,html,css,tailwind,figma,flutter,linux,mysql,androidstudio,vscode&perline=19)
 
-</h3>
-<hr>
-<h3>👀 𝚃𝚘𝚝𝚊𝚕 𝙿𝚛𝚘𝚏𝚒𝚕𝚎 𝚅𝚒𝚎𝚠𝚜 </h3>
-<hr>
-<h3 > <img src="https://count.getloli.com/get/@:name" height=150 width=450 /> </h3>
 <hr>
 <h3 align="center">
 <h3>📈 𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜</h3>
