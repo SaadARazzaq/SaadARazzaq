@@ -2,10 +2,10 @@
 <img src="Glows.png" />
 <!-- <img src="Not Glow.png" /> --> 
 <h3 align="center">
-
+	
 ![Typing SVG](https://tinyurl.com/WhatAreYouLookingFor101)
 
-  [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge)](https://www.linkedin.com/in/saadarazzaq/)[![YouTube Badge](https://img.shields.io/badge/YouTube-F00?logo=youtube&logoColor=fff&style=for-the-badge)](https://www.youtube.com/channel/UCD7sQyEbW50jfkiEzlqTL-Q)[![LeetCode Badge](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=fff&style=for-the-badge)](https://www.leetcode.com/sabdurrazzaq124)[![HackerRank Badge](https://img.shields.io/badge/HackerRank-00EA64?logo=hackerrank&logoColor=000&style=for-the-badge)](https://www.hackerrank.com/SaadAbdurRazzaq?hr_r=1)
+  [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge)](https://www.linkedin.com/in/saadarazzaq/)[![YouTube Badge](https://img.shields.io/badge/YouTube-F00?logo=youtube&logoColor=fff&style=for-the-badge)](https://www.youtube.com/channel/UCD7sQyEbW50jfkiEzlqTL-Q)[![LeetCode Badge](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=fff&style=for-the-badge)](https://www.leetcode.com/sabdurrazzaq124)[![HackerRank Badge](https://img.shields.io/badge/HackerRank-00EA64?logo=hackerrank&logoColor=000&style=for-the-badge)](https://www.hackerrank.com/SaadAbdurRazzaq?hr_r=1)![View Count](https://komarev.com/ghpvc/?username=SaadARazzaq&style=for-the-badge&color=blueviolet)
 </h4>
 
 <hr>
