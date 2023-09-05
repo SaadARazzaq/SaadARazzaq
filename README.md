@@ -1,4 +1,4 @@
- <!-- ![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif) -->
+<!-- ![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif) -->
 <img src="Glows.png" />
 <!-- <img src="Not Glow.png" /> --> 
 <h3 align="center">
