@@ -13,21 +13,27 @@
 
 </h1>
 
-<h3>⚒️ Tools and Technologies
-<h3 align="center">
-	
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2><h3 align="center">
+
+ <h3>
+	 
   ![My Skills](https://skillicons.dev/icons?i=python,cpp,cs,dotnet,r,dart,kotlin,html,css,tailwind,figma,flutter,linux,mysql,androidstudio,vscode&perline=19)
 
 </h3> 
 
 ---
- 
-<h3>📈 Github Stats</h3>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=SaadARazzaq&theme=sunset-gradient&hide_border=true&border_radius=18&card_width=880&background=45%2C2620EB%2CEB0000)
 
+</h3>
+
+---
+<h2 align="center">🐍 My Contributions 🐍</h2><h3 align="center">
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -44,8 +50,6 @@
 </picture>
 	
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=SaadARazzaq&theme=highcontrast&hide_border=true&border_radius=15&card_width=800&background=45%2CEB0000%2C6B19EB)](https://git.io/streak-stats) -->
-
-</h3>
 
 <p align="center">
 	<img src="https://tinyurl.com/AboveTheSkys" />
