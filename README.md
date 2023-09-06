@@ -1,25 +1,28 @@
  <!-- ![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif) -->
-<img src="Glows.png" />
+<!-- <img src="Glows.png" /> -->
 <!-- <img src="Not Glow.png" /> --> 
+<!-- <h3 align="center"> -->
+	
+<!-- ![Typing SVG](https://tinyurl.com/WhatAreYouLookingFor101) --> 
+
+<h1 align="center">
+    <img src="https://tinyurl.com/TryFindingOut" />
+	
+  [<a href="mailto:sabdurrazzaq124@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"/></a>![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge)](https://www.linkedin.com/in/saadarazzaq/)[![YouTube Badge](https://img.shields.io/badge/YouTube-F00?logo=youtube&logoColor=fff&style=for-the-badge)](https://www.youtube.com/channel/UCD7sQyEbW50jfkiEzlqTL-Q)[![LeetCode Badge](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=fff&style=for-the-badge)](https://www.leetcode.com/sabdurrazzaq124)[![HackerRank Badge](https://img.shields.io/badge/HackerRank-00EA64?logo=hackerrank&logoColor=000&style=for-the-badge)](https://www.hackerrank.com/SaadAbdurRazzaq?hr_r=1)![View Count](https://komarev.com/ghpvc/?username=SaadARazzaq&style=for-the-badge&color=blueviolet)
+
+</h1>
+
+<h3>⚒️ Tools and Technologies
 <h3 align="center">
 	
-![Typing SVG](https://tinyurl.com/WhatAreYouLookingFor101)
-
-  [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge)](https://www.linkedin.com/in/saadarazzaq/)[![YouTube Badge](https://img.shields.io/badge/YouTube-F00?logo=youtube&logoColor=fff&style=for-the-badge)](https://www.youtube.com/channel/UCD7sQyEbW50jfkiEzlqTL-Q)[![LeetCode Badge](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=fff&style=for-the-badge)](https://www.leetcode.com/sabdurrazzaq124)[![HackerRank Badge](https://img.shields.io/badge/HackerRank-00EA64?logo=hackerrank&logoColor=000&style=for-the-badge)](https://www.hackerrank.com/SaadAbdurRazzaq?hr_r=1)![View Count](https://komarev.com/ghpvc/?username=SaadARazzaq&style=for-the-badge&color=blueviolet)
-</h4>
-
-<hr>
-
-<h3>⚒️ 𝙼𝚊𝚒𝚗𝚕𝚢 𝚄𝚜𝚎𝚍 𝚃𝚘𝚘𝚕𝚜 𝚊𝚗𝚍 𝚃𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚒𝚎𝚜</h3>
-<hr>
-<h3> 
-
   ![My Skills](https://skillicons.dev/icons?i=python,cpp,cs,dotnet,r,dart,kotlin,html,css,tailwind,figma,flutter,linux,mysql,androidstudio,vscode&perline=19)
 
-<hr>
-<h3 align="center">
-<h3>📈 𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜</h3>
-<hr>
+</h3> 
+
+---
+ 
+<h3>📈 Github Stats</h3>
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
