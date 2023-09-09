@@ -1,6 +1,6 @@
  <!-- ![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif) -->
 <!-- <img src="Glows.png" /> -->
-<img src="bottom.png" /> 
+<img src="https://github.com/SaadARazzaq/BlindSpeak/blob/main/imge.png" />
 <!-- <h3 align="center"> -->
 	
 <!-- ![Typing SVG](https://tinyurl.com/WhatAreYouLookingFor101) --> 
@@ -17,6 +17,18 @@
  <h3>
 	 
   ![My Skills](https://skillicons.dev/icons?i=python,cpp,cs,dotnet,r,dart,kotlin,html,css,tailwind,figma,flutter,linux,mysql,androidstudio,vscode&perline=19)
+
+</h3> 
+
+---
+
+</h1>
+
+<h2 align="center">⭐ Quote ⭐</h2><h3 align="center">
+
+ <h3>
+	 
+![image](https://github.com/SaadARazzaq/SaadARazzaq/assets/123338307/e029b78f-3ec4-42d8-bbc0-4545ecab97d3)
 
 </h3> 
 
@@ -60,5 +72,6 @@
 	<a href="https://github.com/SaadARazzaq/SaadARazzaq/blob/main/LICENSE"><img src="https://img.shields.io/static/v1.svg?style=for-the-badge&label=License&message=MIT&logoColor=d9e0ee&colorA=363a4f&colorB=b7bdf8"/></a>
 </p>
 <div align=center>
+	<img src="Glows.png" /> 
   <img  height=100px width= 100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=header"/>
 </div>
