@@ -39,7 +39,7 @@
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=SaadARazzaq&theme=sunset-gradient&hide_border=true&border_radius=18&card_width=880&background=45%2C2620EB%2CEB0000)
+[![GitHub Streak](https://streak-stats.demolab.com?user=SaadARazzaq&theme=highcontrast&hide_border=true&border_radius=15&card_width=800&background=45%2CEB0000%2C6B19EB)](https://git.io/streak-stats)
 
 </h3>
 
@@ -59,8 +59,6 @@
     src="https://tinyurl.com/UUWUU404"
   />
 </picture>
-	
-<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=SaadARazzaq&theme=highcontrast&hide_border=true&border_radius=15&card_width=800&background=45%2CEB0000%2C6B19EB)](https://git.io/streak-stats) -->
 
 <p align="center">
 	<img src="https://tinyurl.com/AboveTheSkys" />
