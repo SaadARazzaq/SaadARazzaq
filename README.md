@@ -1,5 +1,8 @@
  <!-- ![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif) -->
 <!-- <img src="Glows.png" /> -->
+
+<!-- <a href="https://PlayBadges.pavi2410.me/badge/full?id=com.fastdevlabs.tictactoe"> -->
+
 <img src="https://github.com/SaadARazzaq/BlindSpeak/blob/main/imge.png" />
 <!-- <h3 align="center"> -->
 	
