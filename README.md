@@ -3,7 +3,10 @@
 
 <!-- <a href="https://PlayBadges.pavi2410.me/badge/full?id=com.fastdevlabs.tictactoe"> -->
 
-<img src="https://github.com/SaadARazzaq/BlindSpeak/blob/main/imge.png" />
+<!-- <img src="https://github.com/SaadARazzaq/BlindSpeak/blob/main/imge.png" /> -->
+
+![banner](https://github.com/SaadARazzaq/SaadARazzaq/assets/123338307/fbbdbbd8-2ffa-4183-9ef2-9dc5c61e6895)
+
 <!-- <h3 align="center"> -->
 	
 <!-- ![Typing SVG](https://tinyurl.com/WhatAreYouLookingFor101) --> 
