@@ -1,12 +1,9 @@
 <!-- ![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif) -->
-<!-- <img src="Glows.png" /> -->
+<img src="Glows.png" />
 
 <!-- <a href="https://PlayBadges.pavi2410.me/badge/full?id=com.fastdevlabs.tictactoe"> -->
 
 <!-- <img src="https://github.com/SaadARazzaq/BlindSpeak/blob/main/imge.png" /> -->
-
-![banner](https://github.com/SaadARazzaq/SaadARazzaq/assets/123338307/fbbdbbd8-2ffa-4183-9ef2-9dc5c61e6895)
-
 <!-- <h3 align="center"> -->
 	
 <!-- ![Typing SVG](https://tinyurl.com/WhatAreYouLookingFor101) --> 
@@ -76,7 +73,4 @@
 <p align="center">
 	<a href="https://github.com/SaadARazzaq/SaadARazzaq/blob/main/LICENSE"><img src="https://img.shields.io/static/v1.svg?style=for-the-badge&label=License&message=MIT&logoColor=d9e0ee&colorA=363a4f&colorB=b7bdf8"/></a>
 </p>
-<div align=center>
-	<img src="Glows.png" /> 
-  <img  height=100px width= 100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=header"/>
-</div>
+
