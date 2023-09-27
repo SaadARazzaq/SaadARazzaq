@@ -1,5 +1,6 @@
 <!-- ![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif) -->
-<img src="Glows.png" />
+<!--<img src="Glows.png" />-->
+![output](https://github.com/SaadARazzaq/SaadARazzaq/assets/123338307/a2340a2b-5604-4125-af4a-aeaa66cb408e)
 
 <!-- <a href="https://PlayBadges.pavi2410.me/badge/full?id=com.fastdevlabs.tictactoe"> -->
 
@@ -8,7 +9,7 @@
 	
 <!-- ![Typing SVG](https://tinyurl.com/WhatAreYouLookingFor101) --> 
 <h1 align="center">
-    <img src="https://tinyurl.com/TryFindingOut" />
+    <a href="https://tinyurl.com/KiaDhoondRahyHO"><img src="https://tinyurl.com/ApnaBanaoJaKar" alt="This is ME" /></a>
 	
   [<a href="mailto:sabdurrazzaq124@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"/></a>![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge)](https://www.linkedin.com/in/saadarazzaq/)[![YouTube Badge](https://img.shields.io/badge/YouTube-F00?logo=youtube&logoColor=fff&style=for-the-badge)](https://www.youtube.com/channel/UCD7sQyEbW50jfkiEzlqTL-Q)[![LeetCode Badge](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=fff&style=for-the-badge)](https://www.leetcode.com/sabdurrazzaq124)[![HackerRank Badge](https://img.shields.io/badge/HackerRank-00EA64?logo=hackerrank&logoColor=000&style=for-the-badge)](https://www.hackerrank.com/SaadAbdurRazzaq?hr_r=1)![View Count](https://komarev.com/ghpvc/?username=SaadARazzaq&style=for-the-badge&color=blueviolet)
