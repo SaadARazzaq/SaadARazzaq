@@ -1,0 +1,44 @@
+name: Update Combined Image
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Run daily at midnight
+
+jobs:
+  update_image:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+    - name: Install dependencies
+      run: |
+        # Install any necessary dependencies, e.g., Python and Pillow
+        pip install Pillow
+      shell: bash
+
+    - name: Fetch Snake Image from main.yml
+      run: |
+        # Extract the snake image URL from the main.yml file
+        SNAKE_IMAGE_URL=$(yq eval '.steps[0].with.outputs["dist/github-contribution-grid-snake.svg"]' main.yml)
+
+        # Download the snake image
+        wget -O snake.svg "$SNAKE_IMAGE_URL"
+      shell: bash
+
+    - name: Update Image
+      run: |
+        # Convert the SVG snake image to PNG (if needed)
+        inkscape -z -e snake.png snake.svg
+
+        # Overlay the snake image onto the background image
+        python overlay_images.py background.png snake.png combined.png
+
+        # Commit and push the combined image
+        git config --global user.email "actions@github.com"
+        git config --global user.name "GitHub Actions"
+        git add combined.png
+        git commit -m "Update combined image"
+        git push origin main
+      shell: bash
