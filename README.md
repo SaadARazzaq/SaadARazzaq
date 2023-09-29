@@ -28,16 +28,6 @@
 
 </h1>
 
-<h2 align="center">⭐ Quote ⭐</h2><h3 align="center">
-
- <h3>
-	 
-![image](https://github.com/SaadARazzaq/SaadARazzaq/assets/123338307/e029b78f-3ec4-42d8-bbc0-4545ecab97d3)
-
-</h3> 
-
----
-
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 
