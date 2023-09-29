@@ -31,7 +31,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+![](./profile-3d-contrib/profile-night-green.svg)
 
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=SaadARazzaq&theme=highcontrast&hide_border=true&border_radius=15&card_width=800&background=45%2CEB0000%2C6B19EB)](https://git.io/streak-stats) -->
 [![GitHub Streak](https://streak-stats.demolab.com?user=SaadARazzaq&border_radius=0&card_width=1200&card_height=1200&background=00034D&border=F6FF00&currStreakNum=09FF00&stroke=EB5454&ring=E2EB00&fire=FF7804&sideNums=09FF00&currStreakLabel=EB5454&sideLabels=EB5454&dates=EB5454&excludeDaysLabel=EB5454&hide_total_contributions=true)](https://git.io/streak-stats)
