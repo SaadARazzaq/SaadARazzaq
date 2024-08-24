@@ -10,13 +10,14 @@
 <!-- <h3 align="center"> -->
 	
 <!-- ![Typing SVG](https://tinyurl.com/WhatAreYouLookingFor101) --> 
+
 <h1 align="center">
 <!--     <a href="https://tinyurl.com/KiaDhoondRahyHO"><img src="https://tinyurl.com/ApnaBanaoJaKar" alt="This is ME" /></a> -->
-	
+	<!--
   [<a href="mailto:sabdurrazzaq124@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"/></a>![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge)](https://www.linkedin.com/in/saadarazzaq/)[![YouTube Badge](https://img.shields.io/badge/YouTube-F00?logo=youtube&logoColor=fff&style=for-the-badge)](https://www.youtube.com/channel/UCD7sQyEbW50jfkiEzlqTL-Q)[![LeetCode Badge](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=fff&style=for-the-badge)](https://www.leetcode.com/sabdurrazzaq124)[![HackerRank Badge](https://img.shields.io/badge/HackerRank-00EA64?logo=hackerrank&logoColor=000&style=for-the-badge)](https://www.hackerrank.com/SaadAbdurRazzaq?hr_r=1)![View Count](https://komarev.com/ghpvc/?username=SaadARazzaq&style=for-the-badge&color=blueviolet)
-
-</h1>
+-->
+</h1> 
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2><h3 align="center">
 
